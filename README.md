@@ -1,12 +1,12 @@
 # E-commerce-Database-Setup-And-Sales-Analysis-SQL-
 ##  Introduction
-Welcome to my SQL portfolio project! As a beginner learning Data Analytics, I built this project to demonstrate how an online store can turn a basic spreadsheet of daily sales
+I built this project to demonstrate how an online store can turn a basic spreadsheet of daily sales
 transactions into clear, actionable business insights using **SQL** and **MySQL Workbench**.
 
 ---
 
 ##  10 Business Problems & SQL Solutions
-Hiring managers often say a business cannot grow just by looking at a long spreadsheet. To prove my analytical mindset, I wrote custom SQL queries inside **MySQL Workbench** to solve these **10 specific, real-world business problems**:
+To prove my analytical mindset, I wrote custom SQL queries inside **MySQL Workbench** to solve these **10 specific, real-world business problems**:
 
 ### 1. High-Level Executive Metrics (KPIs)
 *   **The Problem:** The executive team needs a high-level pulse check on overall store health.
