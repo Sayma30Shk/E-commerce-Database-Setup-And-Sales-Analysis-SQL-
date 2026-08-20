@@ -1,4 +1,4 @@
-# E-commerce-Database-Setup-And-Sales-Analysis-SQL-
+# E-commerce Metrics And Data Integrity 
 ##  Introduction
 I built this project to demonstrate how an online store can turn a basic spreadsheet of daily sales
 transactions into clear, actionable business insights using **SQL** and **MySQL Workbench**.
